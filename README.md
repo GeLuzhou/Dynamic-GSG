@@ -15,7 +15,7 @@
   <p align="center">
     <strong>Beijing Institute of Technology</strong>
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2502.15309">Paper</a> | <a href="https://youtu.be/9QftApGbcSA">Video</a> </h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2502.15309">Paper</a> | <a href="https://youtu.be/9QftApGbcSA">Video</a>| <a href="https://youtu.be/9QftApGbcSA">Supplementary Materials</a> </h3>
   <div align="center"></div>
 </p>
 <p align="center">
