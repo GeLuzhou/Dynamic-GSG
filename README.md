@@ -40,12 +40,9 @@
 
 # Dynamic Update Demo
 <p align="center">
-  <a href="">
-    <img src="./assets/rgb_update.gif" width="50%">
-    <img src="./assets/sem_update.gif" width="50%">
-  </a>
+  <img src="https://github.com/GeLuzhou/Dynamic-GSG/raw/main/assets/rgb_update.gif" width="49%">
+  <img src="https://github.com/GeLuzhou/Dynamic-GSG/raw/main/assets/sem_update.gif" width="49%">
 </p>
-
 
 ### Acknowledgement
 
