@@ -41,7 +41,10 @@
 
 ### TODO List
 - [ ]  Realese supplementary experimental materials of Language-guided Object Retrieval on the Replica dataset.
-- [ ]  Update detailed tutorial for DynamicGSG.
+
+If our work is successfully accepted：
+
+- [ ]  Update detailed tutorial and code for DynamicGSG.
 - [ ]  Open source deployment code using realsense d455.
 
 
