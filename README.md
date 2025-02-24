@@ -1,11 +1,24 @@
 
-## DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation
+<p align="center">
 
-Luzhou Ge, Xiangyu Zhu, Zhuo Yang and Xuesong Li
+  <h1 align="center">DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation</h1>
+  <h3 align="center"></h3>
+  <p align="center">
+    <strong>Luzhou Ge</strong>
+    ·
+    <strong>Xiangyu Zhu</strong>
+    ·
+    <strong>Zhuo Yang</strong>
+    ·
+    <strong>Xuesong Li</strong>
+  </p>
+  <p align="center">
+    <strong>Beijing Institute of Technology</strong>
+  </p>
+  <h3 align="center"><a href="https://arxiv.org/abs/2502.15309">Paper</a> | <a href="https://youtu.be/9QftApGbcSA">Video</a> </h3>
+  <div align="center"></div>
+</p>
 
-Beijing Institute of Technology
-
-[Arxiv](https://arxiv.org/abs/) 
 
 <p align="center">
   <a href="">
@@ -20,8 +33,18 @@ Beijing Institute of Technology
 
 
 ### TODO List
+- [ ]  Realese Supplementary of Language-guided Object Retrieval on the Replica dataset.
 - [ ]  Update detailed tutorial for DynamicGSG.
 - [ ]  Open source deployment code using realsense d455.
+
+
+# Dynamic Update Demo
+<p align="center">
+  <a href="">
+    <img src="./assets/rgb.gif" width="100%">
+  </a>
+</p>
+
 
 ### Acknowledgement
 
