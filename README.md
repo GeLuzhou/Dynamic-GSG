@@ -18,15 +18,22 @@
   <h3 align="center"><a href="https://arxiv.org/abs/2502.15309">Paper</a> | <a href="https://youtu.be/9QftApGbcSA">Video</a> </h3>
   <div align="center"></div>
 </p>
-
-
 <p align="center">
   <a href="">
-    <img src="./assets/teaser.png" alt="Logo" width="100%">
+    <img src="./assets/teaser.png" alt="Logo" width="80%">
   </a>
 </p>
 
+## Dynamic Update Demo
+<p align="center">
+  <img src="https://github.com/GeLuzhou/Dynamic-GSG/raw/main/assets/rgb_update.gif" width="49%">
+  <img src="https://github.com/GeLuzhou/Dynamic-GSG/raw/main/assets/sem_update.gif" width="49%">
+</p>
+
+
+
 ### Overview
+
 > In real-world scenarios, environment changes caused by human or agent activities make it extremely challenging for robots to perform various long-term tasks. Recent works typically struggle to effectively understand and adapt to dynamic environments due to the inability to update their environment representations in memory according to environment changes and lack of fine-grained reconstruction of the environments. To address these challenges, we propose \textit{DynamicGSG}, a dynamic, high-fidelity, open-vocabulary scene graph construction system leveraging Gaussian splatting. \textit{DynamicGSG} builds hierarchical scene graphs using advanced vision language models to represent the spatial and semantic relationships between objects in the environments, utilizes a joint feature loss we designed to supervise Gaussian instance grouping while optimizing the Gaussian maps, and locally updates the Gaussian scene graphs according to real environment changes for long-term environment adaptation. Experiments and ablation studies demonstrate the performance and efficacy of our proposed method in terms of semantic segmentation, language-guided object retrieval, and reconstruction quality. Furthermore, we validate the dynamic updating capabilities of our system in real laboratory environments.
 
 ### Installation
@@ -38,11 +45,7 @@
 - [ ]  Open source deployment code using realsense d455.
 
 
-# Dynamic Update Demo
-<p align="center">
-  <img src="https://github.com/GeLuzhou/Dynamic-GSG/raw/main/assets/rgb_update.gif" width="49%">
-  <img src="https://github.com/GeLuzhou/Dynamic-GSG/raw/main/assets/sem_update.gif" width="49%">
-</p>
+
 
 ### Acknowledgement
 
