@@ -121,14 +121,14 @@ and generates the following results:
 For the above scene graph input example, the explanation is:
 ```
 {
-    'Asset' {'idx': 1, 'name': 'sofa chair'} contains 'Ordinary' {'idx': 3,'name': 'pillow'}, {'idx': 26, 'name': 'pillow'}, {'idx': 28, 'name': 'pillow'}, {'idx': 29, 'name': 'pillow'}
-    'Asset' {'idx': 18, 'name': 'cabinet'} contains 'Ordinary' {'idx': 5, 'name': 'coffee kettle'}, {'idx': 11, 'name': 'tissue box'}, {'idx': 17, 'name': 'book'}, {'idx': 20, 'name': 'potted plant'}
-    'Asset' {'idx': 15, 'name': 'coffee table'} contains 'Ordinary' {'idx': 7, 'name': 'lamp'}, {'idx': 8, 'name': 'potted plant'}
-    'Asset' {'idx': 45, 'name': 'couch'} contains 'Ordinary' {'idx': 23, 'name': 'pillow'}, {'idx': 41, 'name': 'pillow'}, {'idx': 42, 'name': 'pillow'}
-    'Asset' {'idx': 30, 'name': 'coffee table'} contains 'Ordinary' {'idx': 31, 'name': 'cup'}, {'idx': 43, 'name': 'book'}, {'idx': 46, 'name': 'potted plant'}
-    'Asset' {'idx': 35, 'name': 'sofa chair'} contains 'Ordinary' {'idx': 33, 'name': 'pillow'}
-    'Asset' {'idx': 38, 'name': 'armchair'} contains 'Ordinary' {'idx': 39, 'name': 'pillow'}
-    'Asset' {'idx': 52, 'name': 'coffee table'} contains 'Ordinary' {'idx': 40, 'name': 'lamp'}, {'idx': 50, 'name': 'book'}
+    'Asset' object {'idx': 1, 'name': 'sofa chair'} contains 'Ordinary' objects {'idx': 3,'name': 'pillow'}, {'idx': 26, 'name': 'pillow'}, {'idx': 28, 'name': 'pillow'}, {'idx': 29, 'name': 'pillow'}
+    'Asset' object {'idx': 18, 'name': 'cabinet'} contains 'Ordinary' objects {'idx': 5, 'name': 'coffee kettle'}, {'idx': 11, 'name': 'tissue box'}, {'idx': 17, 'name': 'book'}, {'idx': 20, 'name': 'potted plant'}
+    'Asset' object {'idx': 15, 'name': 'coffee table'} contains 'Ordinary' objects {'idx': 7, 'name': 'lamp'}, {'idx': 8, 'name': 'potted plant'}
+    'Asset' object {'idx': 45, 'name': 'couch'} contains 'Ordinary' objects {'idx': 23, 'name': 'pillow'}, {'idx': 41, 'name': 'pillow'}, {'idx': 42, 'name': 'pillow'}
+    'Asset' object {'idx': 30, 'name': 'coffee table'} contains 'Ordinary' objects {'idx': 31, 'name': 'cup'}, {'idx': 43, 'name': 'book'}, {'idx': 46, 'name': 'potted plant'}
+    'Asset' object {'idx': 35, 'name': 'sofa chair'} contains 'Ordinary' objects {'idx': 33, 'name': 'pillow'}
+    'Asset' object {'idx': 38, 'name': 'armchair'} contains 'Ordinary' objects {'idx': 39, 'name': 'pillow'}
+    'Asset' object {'idx': 52, 'name': 'coffee table'} contains 'Ordinary' objects {'idx': 40, 'name': 'lamp'}, {'idx': 50, 'name': 'book'}
 }
 ```
 #### Replica office0
@@ -181,7 +181,7 @@ and generates the following results:
 For the above scene graph input example, the explanation is:
 ```
 {
-    'Asset' {'idx': 14, 'name': 'refrigerator'} contains 'Ordinary' {'idx': 15, 'name': 'potted plant'}
-    'Asset' {'idx': 8, 'name': 'coffee table'} contains 'Ordinary' {'idx': 18, 'name': 'book'}, {'idx': 19, 'name': 'tissue box'}, {'idx': 23, 'name': 'tissue box'}
+    'Asset' object {'idx': 14, 'name': 'refrigerator'} contains 'Ordinary' objects {'idx': 15, 'name': 'potted plant'}
+    'Asset' object {'idx': 8, 'name': 'coffee table'} contains 'Ordinary' objects {'idx': 18, 'name': 'book'}, {'idx': 19, 'name': 'tissue box'}, {'idx': 23, 'name': 'tissue box'}
 }
 ```
