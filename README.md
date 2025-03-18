@@ -40,9 +40,9 @@
 
 
 ### TODO List
-  [✅]  Realese supplementary experimental materials of Language-guided Object Retrieval on the Replica dataset.
+  ✅  Realese supplementary experimental materials of Language-guided Object Retrieval on the Replica dataset.
   
-  [✅]  Realese multi-layer scene graph construction LVLM prompts.
+  ✅  Realese multi-layer scene graph construction LVLM prompts.
   
   [ ]  Update detailed tutorial and code for DynamicGSG.
   
