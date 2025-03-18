@@ -44,7 +44,7 @@
   
   ✅  Realese multi-layer scene graph construction LVLM prompts.
   
-  [ ]  Update detailed tutorial and code for DynamicGSG.
+  [ ]  Update detailed tutorial and code of DynamicGSG.
   
   [ ]  Open source deployment code using realsense d455.
 
