@@ -3,6 +3,11 @@
 
   <h1 align="center">DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation</h1>
   <h3 align="center"></h3>
+
+  <h3 align="center">
+    <strong>IROS 2025</strong>
+  </h3>
+
   <p align="center">
     <strong>Luzhou Ge</strong>
     ·
@@ -15,7 +20,7 @@
   <p align="center">
     <strong>Beijing Institute of Technology</strong>
   </p>
-  <h3 align="center"><a href="https://arxiv.org/abs/2502.15309">Paper</a> | <a href="https://youtu.be/9QftApGbcSA">Video</a> | <a href="https://github.com/GeLuzhou/Dynamic-GSG/tree/main/supplementary_materials">Supplementary Materials</a> </h3>
+  <h4 align="center"><a href="https://arxiv.org/abs/2502.15309">Paper</a> | <a href="https://youtu.be/9QftApGbcSA">Video</a> | <a href="https://github.com/GeLuzhou/Dynamic-GSG/tree/main/supplementary_materials">Supplementary Materials</a> </h4>
   <div align="center"></div>
 </p>
 <p align="center">
